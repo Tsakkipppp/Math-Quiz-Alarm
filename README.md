@@ -9,6 +9,8 @@ This project uses an Arduino, LCD display, keypad, and buzzer to create an alarm
 
 ---
 
+Video demo : https://youtu.be/cUNMopWjaPw
+
 ## Functions Breakdown
 | Function            | What It Does                                              |
 |---------------------|----------------------------------------------------------|
